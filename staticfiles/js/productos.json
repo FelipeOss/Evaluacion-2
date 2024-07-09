@@ -1,0 +1,142 @@
+[
+    {
+        "id": "placa-01",
+        "titulo": "Placa 01",
+        "imagen": "./static/Items/Placas/placa1.jpg",
+        "categoria": {
+            "nombre": "Placas",
+            "id": "placas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "placa-02",
+        "titulo": "Placa 02",
+        "imagen": "./static/Items/Placas/placa2.jpg",
+        "categoria": {
+            "nombre": "Placas",
+            "id": "placas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "placa-03",
+        "titulo": "Placa 03",
+        "imagen": "./static/Items/Placas/placa3.jpg",
+        "categoria": {
+            "nombre": "Placas",
+            "id": "placas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "placa-04",
+        "titulo": "Placa 04",
+        "imagen": "./static/Items/Placas/placa4.jpg",
+        "categoria": {
+            "nombre": "Placas",
+            "id": "placas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "placa-05",
+        "titulo": "Placa 05",
+        "imagen": "./static/Items/Placas/placa5.jpg",
+        "categoria": {
+            "nombre": "Placas",
+            "id": "placas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "placa-06",
+        "titulo": "Placa 06",
+        "imagen": "./static/Items/Placas/placa6.jpg",
+        "categoria": {
+            "nombre": "Placas",
+            "id": "placas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "bandana-01",
+        "titulo": "Bandana 01",
+        "imagen": "./static/Items/Bandanas/bandana1.jpg",
+        "categoria": {
+            "nombre": "Bandanas",
+            "id": "bandanas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "bandana-02",
+        "titulo": "Bandana 02",
+        "imagen": "./static/Items/Bandanas/bandana2.jpg",
+        "categoria": {
+            "nombre": "Bandanas",
+            "id": "bandanas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "bandana-03",
+        "titulo": "bandana 03",
+        "imagen": "./static/Items/Bandanas/bandana3.jpg",
+        "categoria": {
+            "nombre": "bandanas",
+            "id": "bandanas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "arnes-01",
+        "titulo": "Arnes 01",
+        "imagen": "./static/Items/Arnes/arnesperro1.jpg",
+        "categoria": {
+            "nombre": "Arnes",
+            "id": "arnes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "arnes-02",
+        "titulo": "Arnes 02",
+        "imagen": "./static/Items/Arnes/arnesperro2.jpg",
+        "categoria": {
+            "nombre": "Arnes",
+            "id": "arnes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "arnes-03",
+        "titulo": "Arnes 03",
+        "imagen": "./static/Items/Arnes/carnesperro3.jpg",
+        "categoria": {
+            "nombre": "Arnes",
+            "id": "arnes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "arnes-04",
+        "titulo": "Arnes 04",
+        "imagen": "./static/Items/Arnes/arnesperro4.jpg",
+        "categoria": {
+            "nombre": "Arnes",
+            "id": "arnes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "arnes-05",
+        "titulo": "Arnes 05",
+        "imagen": "./static/Items/Arnes/arnesperro5.jpg",
+        "categoria": {
+            "nombre": "Arnes",
+            "id": "arnes"
+        },
+        "precio": 1000
+    }
+]
